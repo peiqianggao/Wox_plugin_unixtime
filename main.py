@@ -21,7 +21,7 @@ result_template = {
     'JsonRPCAction': {
         'method': 'copyToClipboard',
         'parameters': ['{}'],
-        'dontHideAfterAction': False
+        # 'dontHideAfterAction': False
     }
 }
 
