@@ -6,7 +6,7 @@
     "Author": "peiqianggao",
     "Version": "1.0.0",
     "Language": "python",
-    "Website": "http://www.getwox.com",
+    "Website": "https://github.com/peiqianggao/Wox_plugin_unixtime",
     "IcoPath": "Images\\unixtime.ico",
     "ExecuteFileName": "main.py"
 }
