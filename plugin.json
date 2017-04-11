@@ -1,0 +1,12 @@
+{
+    "ID": "3CA0AADF1E6B11E7817900163E021941",
+    "ActionKeyword": "ut",
+    "Name": "unixtime_now",
+    "Description": "Plugin to get unixtime of now",
+    "Author": "peiqianggao",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "http://www.getwox.com",
+    "IcoPath": "Images\\unixtime.ico",
+    "ExecuteFileName": "main.py"
+}
